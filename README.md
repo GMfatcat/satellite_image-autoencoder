@@ -2,7 +2,9 @@
 專題project  CNN + AUTOENCODER
 
 #SEGNET_OUTPUTGRAY = 1080 TRAIN DATA MODEL
+
 #SEGNET_OUTPUTGRAY_V2 = 2700 TRAIN DATA MODEL
+
 #predict / predict_4 is a py file to test model
 
 #Data Augmentation 
