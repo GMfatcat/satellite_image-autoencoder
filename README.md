@@ -47,3 +47,6 @@ test_data = file['test_data']
 
 test_labels = file['test_labels']
 
+
+#Dhash.py 用於判斷照片相似程度
+
