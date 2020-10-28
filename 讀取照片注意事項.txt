@@ -1,0 +1,5 @@
+opencv可能有bug
+所以在讀取照片的while迴圈可以加入下面程式碼來跳過無法讀取的照片
+
+if img is None:
+            continue
