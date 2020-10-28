@@ -1,0 +1,12 @@
+1. 使用 random generate 256x256 py (tif - > jpg)(1 -> 4)
+
+2. increase train & increase test(rotate + flip) (1 -> 6)
+
+3. 增加 24 倍照片
+
+
+其他作法
+
+1. Blur
+2. RandomBrightness
+
