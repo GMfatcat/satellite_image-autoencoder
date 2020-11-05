@@ -1,5 +1,9 @@
 # satellite_image-autoencoder
-專題project  CNN + AUTOENCODER
+專題project  CNN + AUTOENCODER 
+
+#相關資料參考word檔
+
+#segnet3系列為retrain的model
 
 #SEGNET_OUTPUTGRAY = 1080 TRAIN DATA MODEL
 
