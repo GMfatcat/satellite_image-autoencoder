@@ -11,6 +11,10 @@
 
 #predict / predict_4 is a py file to test model
 
+# small_batch_segnet_all_v2.h5 : this is the fine tune model(學長電腦train的)
+
+
+
 #Data Augmentation 
 1. 使用 random generate 256x256 py (tif - > jpg)(1 -> 4)
 
