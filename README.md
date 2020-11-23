@@ -12,17 +12,19 @@
 #predict / predict_4 is a py file to test model
 
 # small_batch_segnet_all_v2.h5 : this is the fine tune model(學長電腦train的)
+# shuffle_not_mini_batch_v2.ipynb 是 fine tune code 
 
 
 
-#Data Augmentation 
+
+# Data Augmentation 
 1. 使用 random generate 256x256 py (tif - > jpg)(1 -> 4)
 
 2. increase train & increase test(rotate + flip) (1 -> 6)
 
 3. 增加 24 倍照片
 
-#Use npz file as belows
+# Use npz file as belows
 # NPZ FILE : https://drive.google.com/drive/folders/11Xs5J9A4NZa82fk3_L5TrgM3jSeE6DSM?usp=sharing
 內容 : 
 train_data.shape: (2700, 256, 256, 3)
@@ -56,5 +58,5 @@ test_data = file['test_data']
 test_labels = file['test_labels']
 
 
-#Dhash.py 用於判斷照片相似程度
+# Dhash.py 用於判斷照片相似程度
 
